@@ -1,2 +1,2 @@
-# Marketplace-Technical-Foundation-Q-Commerce-
-I’m thrilled to share the completion of the Marketplace-Technical-Foundation-Q-Commerce document, which serves as the backbone for building a seamless and efficient quick commerce platform. This document encapsulates all the critical technical aspects needed to bring this project to life while adhering to industry-leading standards.
+# Q-Commerce-Marketplace-Hackathon
+Welcome to the Q-Commerce Marketplace Hackathon repository! This project is a dynamic, innovative, and scalable solution aimed at creating a cutting-edge marketplace platform tailored for the fast-paced world of quick-commerce (Q-Commerce).
